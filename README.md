@@ -24,4 +24,4 @@ A solução foi dividida nas seguintes frentes, cumprindo os requisitos do desaf
 1. **Clone este repositório:**
    ```bash
    git clone [https://github.com/maurisvan/AppPassosMagicos.git](https://github.com/maurisvan/AppPassosMagicos.git)
-   cd NOME_DO_REPOSITORIO
+   cd AppPassosMagicos
