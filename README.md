@@ -18,6 +18,7 @@ A solução foi dividida nas seguintes frentes, cumprindo os requisitos do desaf
 * **Visualização:** Matplotlib, Seaborn
 * **Machine Learning:** Scikit-Learn, Joblib
 * **Deploy da Aplicação:** Streamlit (Community Cloud)
+* **Link da aplicação:** https://apppaappsmagicos-wof4xyjmmfxubykvg5pr95.streamlit.app/ 
 
 ## 🚀 Como executar o projeto localmente
 
