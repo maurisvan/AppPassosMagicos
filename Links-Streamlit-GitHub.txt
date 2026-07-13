@@ -1,0 +1,2 @@
+Aplicação Streamlit: https://apppaappsmagicos-gjgmj2nsvaxgkzbhsezmpz.streamlit.app/
+Endereço Git hub: https: https://github.com/maurisvan/AppPassosMagicos
